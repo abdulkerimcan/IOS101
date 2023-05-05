@@ -16,7 +16,7 @@ I learned and used CoreData. I have created a new entity called "Paintings" and 
 
 I learned and used MapKit, CoreLocation. I added a marker to a specific point on the map if it was pressed for more than 3 seconds, and saved it using CoreData. Then, I displayed the saved locations on a TableView.<br><br>
 
-#Currency Converter app
+# Currency Converter app
 
 ### About the Project
 
